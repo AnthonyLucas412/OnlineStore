@@ -167,7 +167,7 @@ public class Store {
 
         if (cart.isEmpty()) {
 
-            System.out.println("\n🤔OOPS!!! No product to remove.\n");
+            System.out.println("\n No product to remove.\n");
 
         } else {
 
